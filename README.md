@@ -12,3 +12,5 @@ Learn the basics of Android CameraX.
 https://codelabs.developers.google.com/codelabs/camerax-getting-started/#0
 
 https://medium.com/@hitherejoe/exploring-camerax-on-android-camera-view-daae6dfaa4ec
+
+https://proandroiddev.com/android-camerax-preview-analyze-capture-1b3f403a9395
