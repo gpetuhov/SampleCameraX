@@ -9,4 +9,6 @@ Learn the basics of Android CameraX.
 * AAPT 2
 
 ## References
+https://codelabs.developers.google.com/codelabs/camerax-getting-started/#0
+
 https://medium.com/@hitherejoe/exploring-camerax-on-android-camera-view-daae6dfaa4ec
