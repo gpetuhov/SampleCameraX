@@ -1,6 +1,8 @@
 # SampleCameraX
 Learn the basics of Android CameraX.
 
+Notice that CameraX is currently in alpha stage, and API may be different in stable release.
+
 ## Requirements
 * Android Studio 3.6 Canary 5
 * Kotlin 1.3.41

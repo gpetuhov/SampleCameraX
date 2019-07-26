@@ -101,6 +101,10 @@ class MainActivity : AppCompatActivity() {
 
         // Finally, apply transformations to our TextureView
         viewFinder.setTransform(matrix)
+
+        // Notice that preview will be stretched in landscape orientation.
+        // To fix this AutoFitPreviewBuilder can be used.
+        // But soon CameraView will be available, which will provide simplified way to display a viewfinder.
     }
 
     // Process result from permission request dialog box
