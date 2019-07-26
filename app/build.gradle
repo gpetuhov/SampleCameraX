@@ -37,4 +37,7 @@ dependencies {
     // CameraX
     implementation "androidx.camera:camera-core:$camerax_version"
     implementation "androidx.camera:camera-camera2:$camerax_version"
+
+    // Anko
+    implementation "org.jetbrains.anko:anko-commons:0.10.8"
 }
